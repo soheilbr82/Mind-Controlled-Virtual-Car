@@ -1,0 +1,68 @@
+# Blender MTL File: 'ap01_terrio.blend'
+# Material Count: 6
+
+newmtl batente
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd G:\boxSinc\Box Sync\textura anime\material\parede\placa_concreto.png
+
+newmtl batente_placa_concreto_suja.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd G:\boxSinc\Box Sync\textura anime\material\parede\placa_concreto_suja.png
+
+newmtl metal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd G:\boxSinc\Box Sync\textura anime\material\metal_old_disp.png
+
+newmtl porta
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.241667 0.022301
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd G:\boxSinc\Box Sync\textura anime\material\metal_old_disp.png
+
+newmtl porta_wood.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.241667 0.022301
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd G:\boxSinc\Box Sync\textura anime\wood.png
+
+newmtl vidro
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.072177 0.183775 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd G:\boxSinc\Box Sync\textura anime\wood.png

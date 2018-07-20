@@ -1,0 +1,1 @@
+Time: 0:9.15, received control signal: Left, speed: 20, elapsed time: 0:0.02, travelled distance: 11.24715, hit left curb: 0, hit right curb: 0, max check point number: 0.

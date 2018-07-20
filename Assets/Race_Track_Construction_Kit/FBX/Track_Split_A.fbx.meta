@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 7567bc8b9bcac0f4391d2474b8b8cc3c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Curb_A
+    100002: Curb_B
+    100004: Curb_C
+    100006: Grass
+    100008: Rail_A
+    100010: Rail_B
+    100012: Rail_C
+    100014: Road
+    100016: Snap_Plane_Invisible2
+    100018: //RootNode
+    400000: Curb_A
+    400002: Curb_B
+    400004: Curb_C
+    400006: Grass
+    400008: Rail_A
+    400010: Rail_B
+    400012: Rail_C
+    400014: Road
+    400016: Snap_Plane_Invisible2
+    400018: //RootNode
+    2300000: Curb_A
+    2300002: Curb_B
+    2300004: Curb_C
+    2300006: Grass
+    2300008: Rail_A
+    2300010: Rail_B
+    2300012: Rail_C
+    2300014: Road
+    2300016: Snap_Plane_Invisible2
+    3300000: Curb_A
+    3300002: Curb_B
+    3300004: Curb_C
+    3300006: Grass
+    3300008: Rail_A
+    3300010: Rail_B
+    3300012: Rail_C
+    3300014: Road
+    3300016: Snap_Plane_Invisible2
+    4300000: Road
+    4300002: Grass
+    4300004: Curb_A
+    4300006: Curb_B
+    4300008: Curb_C
+    4300010: Rail_A
+    4300012: Rail_B
+    4300014: Rail_C
+    4300016: Snap_Plane_Invisible2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
