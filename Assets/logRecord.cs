@@ -15,9 +15,12 @@ public class logRecord : MonoBehaviour {
     public static int leftCurbHits = 0;
     public static int rightCurbHits = 0;
     public static int cpNum = -1;
+    StreamWriter TextFile;
 
     // Use this for initialization
     void Start () {
+        TextFile = new StreamWriter(path);
+        WriteToFile("Time   Control signal   Speed   Elapsed time   Travelled distance   Left curb   Right curb   Max check point");
         startTime = Time.time;
         lastTime = Time.time;
     }
@@ -41,34 +44,30 @@ public class logRecord : MonoBehaviour {
 
         if(top > 0)
         {
-            buffer = "Time: " + cmin + ":" + csec + ", received control signal: Front, " +
-                "speed: " + top + ", elapsed time: " + emin + ":" + esec + ", travelled distance: " +
-                distance.distanceTravelled + ", hit left curb: " + leftCurbHits + ", hit right curb: " +
-                rightCurbHits + ", max check point number: " + cpNum + ".";
+            buffer = cmin + ":" + csec + " | Front | " + top + " | " + emin + ":" + esec + " | " +
+                distance.distanceTravelled + " | " + leftCurbHits + " | " + rightCurbHits + " | " + 
+                cpNum + " | ";
             lastTime = Time.time;
             WriteToFile(buffer);
         }else if(bottom > 0)
         {
-            buffer = "Time: " + cmin + ":" + csec + ", received control signal: Back, " +
-                "speed: " + bottom + ", elapsed time: " + emin + ":" + esec + ", travelled distance: " +
-                distance.distanceTravelled + ", hit left curb: " + leftCurbHits + ", hit right curb: " +
-                rightCurbHits + ", max check point number: " + cpNum + ".";
+            buffer = cmin + ":" + csec + " | Back | " + bottom + " | " + emin + ":" + esec + " | " +
+                distance.distanceTravelled + " | " + leftCurbHits + " | " + rightCurbHits + " | " +
+                cpNum + " | ";
             lastTime = Time.time;
             WriteToFile(buffer);
         }else if(left > 0)
         {
-            buffer = "Time: " + cmin + ":" + csec + ", received control signal: Left, " +
-                "speed: " + left + ", elapsed time: " + emin + ":" + esec + ", travelled distance: " +
-                distance.distanceTravelled + ", hit left curb: " + leftCurbHits + ", hit right curb: " +
-                rightCurbHits + ", max check point number: " + cpNum + ".";
+            buffer = cmin + ":" + csec + " | Left | " + left + " | " + emin + ":" + esec + " | " +
+                distance.distanceTravelled + " | " + leftCurbHits + " | " + rightCurbHits + " | " +
+                cpNum + " | ";
             lastTime = Time.time;
             WriteToFile(buffer);
         }else if(right > 0)
         {
-            buffer = "Time: " + cmin + ":" + csec + ", received control signal: Right, " +
-                "speed: " + right + ", elapsed time: " + emin + ":" + esec + ", travelled distance: " +
-                distance.distanceTravelled + ", hit left curb: " + leftCurbHits + ", hit right curb: " +
-                rightCurbHits + ", max check point number: " + cpNum + ".";
+            buffer = cmin + ":" + csec + " | Right | " + right + " | " + emin + ":" + esec + " | " +
+                distance.distanceTravelled + " | " + leftCurbHits + " | " + rightCurbHits + " | " +
+                cpNum + " | ";
             lastTime = Time.time;
             WriteToFile(buffer);
         }
@@ -77,8 +76,6 @@ public class logRecord : MonoBehaviour {
 
     void WriteToFile(string n)
     {
-        StreamWriter TextFile = new StreamWriter(path);
-
         TextFile.WriteLine(n);
 
         TextFile.Close();
