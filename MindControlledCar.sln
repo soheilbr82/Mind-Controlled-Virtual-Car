@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindControlledCar", "MindControlledCar.csproj", "{0604A340-2555-4704-7BF6-7B1F98ECB2B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindControlledCar.Plugins", "MindControlledCar.Plugins.csproj", "{8047C18D-E82E-9114-D2C9-3DC63CCDC8FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindControlledCar.Editor.Plugins", "MindControlledCar.Editor.Plugins.csproj", "{20941625-E04B-2699-AFA0-6845748E4706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0604A340-2555-4704-7BF6-7B1F98ECB2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0604A340-2555-4704-7BF6-7B1F98ECB2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0604A340-2555-4704-7BF6-7B1F98ECB2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0604A340-2555-4704-7BF6-7B1F98ECB2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8047C18D-E82E-9114-D2C9-3DC63CCDC8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8047C18D-E82E-9114-D2C9-3DC63CCDC8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8047C18D-E82E-9114-D2C9-3DC63CCDC8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8047C18D-E82E-9114-D2C9-3DC63CCDC8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20941625-E04B-2699-AFA0-6845748E4706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20941625-E04B-2699-AFA0-6845748E4706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20941625-E04B-2699-AFA0-6845748E4706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20941625-E04B-2699-AFA0-6845748E4706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
