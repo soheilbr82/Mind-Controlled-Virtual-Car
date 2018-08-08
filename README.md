@@ -26,11 +26,9 @@ The control signal is then calculated based on the user intension towards four d
 The platform including GUI interface, Unity 3D environment, training protocol, data acquisition processes, communication protocols, as well as online and offline decoding algorithms, has been fully implemented.
 
 
-[![Mind-controlled Virtual Car](https://github.com/soheilbr82/MindControlledCar/image.jpg)](https://www.youtube.com/watch?v=mtFRiu9rQD8&feature=youtu.be "Mind-controlled Virtual Car")
+[![Alt Mind-controlled Virtual Car](https://github.com/soheilbr82/MindControlledCar/image.jpg)](https://www.youtube.com/watch?v=mtFRiu9rQD8&feature=youtu.be "Mind-controlled Virtual Car")
 
 
-
-<iframe width="420" height="315" src="http://youtu.be/mtFRiu9rQD8" frameborder="0" allowfullscreen></iframe>
 
 
 # Potential applications and future work
