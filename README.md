@@ -30,15 +30,7 @@ The platform including GUI interface, Unity 3D environment, training protocol, d
 
 
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=mtFRiu9rQD8&feature=youtu.be"><img src="https://github.com/soheilbr82/Mind-Controlled-Virtual-Car/blob/master/image.jpg" alt="IMAGE ALT TEXT"></a>
-</div>
 
-
-
-<div class="video-container">
-  <iframe width="640" height="360" src="//www.youtube.com/embed/mtFRiu9rQD8" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 # Potential applications and future work
