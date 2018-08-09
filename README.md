@@ -30,13 +30,10 @@ The platform including GUI interface, Unity 3D environment, training protocol, d
 
 
 
-
-
 <div align="center">
-    <iframe width="620" height="315"
-        src="https://www.youtube.com/embed/mtFRiu9rQD8">
-    </iframe>
+  <a href="https://www.youtube.com/watch?v=mtFRiu9rQD8&feature=youtu.be"><img src="https://github.com/soheilbr82/Mind-Controlled-Virtual-Car/blob/master/image.jpg" alt="IMAGE ALT TEXT"></a>
 </div>
+
 
 # Potential applications and future work
 Conventional BCI-based biofeedback systems lack the users’ engagement and motivation, which makes it hard for users to attain a satisfactory level of control. The platform is designed to improve users’ experience of motor imagery with a visual feedback of the users’ intention on to a virtual car. It serves as a pilot for online BCI-based gaming while suggests an educational tool to promote interests in BCI for the public. The setup has potential to use as a research tool for investigators in developmental psychology and behavioral science. Moreover, Unity opens the opportunity for us to evaluate users’ immersion in virtual reality (VR) using the proposed platform in future study. The platform may suggest an effective visual feedback of vision, which can lay a foundation for BCI application.
