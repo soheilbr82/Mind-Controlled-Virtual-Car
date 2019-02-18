@@ -2362,8 +2362,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pleft: 7.5
   pright: 10
-  ptop: 12
-  pbottom: 8.57
+  ptop: 10
+  pbottom: 15
 --- !u!114 &170187983
 MonoBehaviour:
   m_ObjectHideFlags: 0
