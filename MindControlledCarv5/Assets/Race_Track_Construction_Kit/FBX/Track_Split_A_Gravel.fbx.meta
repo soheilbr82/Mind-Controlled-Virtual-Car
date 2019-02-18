@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 58f33ce9eba8cbe4e96a1bcfbb1d47db
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Snap_Plane_Invisible
+    100002: //RootNode
+    100004: Concrete_A
+    100006: Concrete_B
+    100008: Concrete_C
+    100010: Curb_A
+    100012: Curb_B
+    100014: Curb_C
+    100016: Grass
+    100018: Gravel_A
+    100020: Gravel_B
+    100022: Gravel_C
+    100024: Rail_A
+    100026: Rail_B
+    100028: Rail_C
+    100030: Road
+    400000: Snap_Plane_Invisible
+    400002: //RootNode
+    400004: Concrete_A
+    400006: Concrete_B
+    400008: Concrete_C
+    400010: Curb_A
+    400012: Curb_B
+    400014: Curb_C
+    400016: Grass
+    400018: Gravel_A
+    400020: Gravel_B
+    400022: Gravel_C
+    400024: Rail_A
+    400026: Rail_B
+    400028: Rail_C
+    400030: Road
+    2300000: Snap_Plane_Invisible
+    2300002: Concrete_A
+    2300004: Concrete_B
+    2300006: Concrete_C
+    2300008: Curb_A
+    2300010: Curb_B
+    2300012: Curb_C
+    2300014: Grass
+    2300016: Gravel_A
+    2300018: Gravel_B
+    2300020: Gravel_C
+    2300022: Rail_A
+    2300024: Rail_B
+    2300026: Rail_C
+    2300028: Road
+    3300000: Snap_Plane_Invisible
+    3300002: Concrete_A
+    3300004: Concrete_B
+    3300006: Concrete_C
+    3300008: Curb_A
+    3300010: Curb_B
+    3300012: Curb_C
+    3300014: Grass
+    3300016: Gravel_A
+    3300018: Gravel_B
+    3300020: Gravel_C
+    3300022: Rail_A
+    3300024: Rail_B
+    3300026: Rail_C
+    3300028: Road
+    4300000: Snap_Plane_Invisible
+    4300002: Road
+    4300004: Grass
+    4300006: Curb_A
+    4300008: Curb_B
+    4300010: Curb_C
+    4300012: Rail_A
+    4300014: Rail_B
+    4300016: Rail_C
+    4300018: Concrete_A
+    4300020: Concrete_B
+    4300022: Concrete_C
+    4300024: Gravel_B
+    4300026: Gravel_A
+    4300028: Gravel_C
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

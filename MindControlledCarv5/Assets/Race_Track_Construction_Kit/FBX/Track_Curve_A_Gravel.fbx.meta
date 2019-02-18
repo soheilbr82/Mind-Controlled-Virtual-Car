@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: d188265becfe1ff4d8095d27054a2f59
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Concrete_A
+    100002: Concrete_B
+    100004: Curb_A
+    100006: Curb_B
+    100008: Grass
+    100010: Gravel_A
+    100012: Gravel_B
+    100014: Rail_A
+    100016: Rail_B
+    100018: Road
+    100020: Snap_Plane_Invisible
+    100022: //RootNode
+    400000: Concrete_A
+    400002: Concrete_B
+    400004: Curb_A
+    400006: Curb_B
+    400008: Grass
+    400010: Gravel_A
+    400012: Gravel_B
+    400014: Rail_A
+    400016: Rail_B
+    400018: Road
+    400020: Snap_Plane_Invisible
+    400022: //RootNode
+    2300000: Concrete_A
+    2300002: Concrete_B
+    2300004: Curb_A
+    2300006: Curb_B
+    2300008: Grass
+    2300010: Gravel_A
+    2300012: Gravel_B
+    2300014: Rail_A
+    2300016: Rail_B
+    2300018: Road
+    2300020: Snap_Plane_Invisible
+    3300000: Concrete_A
+    3300002: Concrete_B
+    3300004: Curb_A
+    3300006: Curb_B
+    3300008: Grass
+    3300010: Gravel_A
+    3300012: Gravel_B
+    3300014: Rail_A
+    3300016: Rail_B
+    3300018: Road
+    3300020: Snap_Plane_Invisible
+    4300000: Road
+    4300002: Grass
+    4300004: Curb_A
+    4300006: Curb_B
+    4300008: Rail_A
+    4300010: Rail_B
+    4300012: Gravel_A
+    4300014: Gravel_B
+    4300016: Concrete_A
+    4300018: Concrete_B
+    4300020: Snap_Plane_Invisible
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

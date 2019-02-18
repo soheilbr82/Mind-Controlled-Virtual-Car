@@ -1,0 +1,1 @@
+Time   Control signal   Speed   Elapsed time   Travelled distance   Left curb   Right curb   Max check point

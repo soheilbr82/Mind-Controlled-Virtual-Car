@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 84bfb6a93db85c44e8335d896796f47b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Carb_A
+    100004: Curb_B
+    100006: Grass
+    100008: Rail_A
+    100010: Rail_B
+    100012: Road_Bottom
+    100014: Road_Top
+    100016: Snap_Plane_Invisible
+    100018: Tarmac
+    100020: Walls
+    400000: //RootNode
+    400002: Carb_A
+    400004: Curb_B
+    400006: Grass
+    400008: Rail_A
+    400010: Rail_B
+    400012: Road_Bottom
+    400014: Road_Top
+    400016: Snap_Plane_Invisible
+    400018: Tarmac
+    400020: Walls
+    2300000: Carb_A
+    2300002: Curb_B
+    2300004: Grass
+    2300006: Rail_A
+    2300008: Rail_B
+    2300010: Road_Bottom
+    2300012: Road_Top
+    2300014: Snap_Plane_Invisible
+    2300016: Tarmac
+    2300018: Walls
+    3300000: Carb_A
+    3300002: Curb_B
+    3300004: Grass
+    3300006: Rail_A
+    3300008: Rail_B
+    3300010: Road_Bottom
+    3300012: Road_Top
+    3300014: Snap_Plane_Invisible
+    3300016: Tarmac
+    3300018: Walls
+    4300000: Road_Bottom
+    4300002: Road_Top
+    4300004: Grass
+    4300006: Tarmac
+    4300008: Carb_A
+    4300010: Curb_B
+    4300012: Walls
+    4300014: Snap_Plane_Invisible
+    4300016: Rail_A
+    4300018: Rail_B
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
