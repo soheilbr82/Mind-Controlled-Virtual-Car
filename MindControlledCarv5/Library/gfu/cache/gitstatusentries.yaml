@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2019-02-17T20:49:46.333-05:00
+  initializedAtString: 2019-02-17T20:47:52.787-05:00
+  entries:
+  - path: MindControlledCarv5\Assets\car.unity
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Assets\car.unity
+    projectPath: Assets\car.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Assets\Hard.unity
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Assets\Hard.unity
+    projectPath: Assets\Hard.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Assets\Medium.unity
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Assets\Medium.unity
+    projectPath: Assets\Medium.unity
+    originalPath: 
+    status: 3
+    staged: 0
