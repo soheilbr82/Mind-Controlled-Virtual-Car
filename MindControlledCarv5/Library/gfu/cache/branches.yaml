@@ -12,17 +12,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-02-11T20:15:37.178-05:00
-  initializedAtString: 2019-02-11T20:15:37.157-05:00
+  lastUpdatedAtString: 2019-02-17T21:55:32.685-05:00
+  initializedAtString: 2019-02-17T21:55:32.662-05:00
   localBranches:
   - name: master
-    tracking: origin/master
-  remoteBranches:
-  - name: origin/HEAD
-    tracking: '[None]'
+    tracking: 
+  remoteBranches: []
   remotes:
-  - name: origin
-    url: https://github.com/soheilbr82/Mind-Controlled-Virtual-Car-Simple.git
+  - name: orogin
+    url: git@github.com:soheilbr82/Mind-Controlled-Virtual-Car.git
     login: 
     user: 
     host: 
@@ -34,25 +32,16 @@ MonoBehaviour:
     values:
     - name: master
       remote:
-        name: origin
-        url: https://github.com/soheilbr82/Mind-Controlled-Virtual-Car-Simple.git
-      trackingBranch: master
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
-    keys:
-    - origin
-    subKeys:
-    - Values:
-      - HEAD
-    subKeyValues:
-    - Values:
-      - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/soheilbr82/Mind-Controlled-Virtual-Car-Simple.git
-        trackingBranch: 
+    keys: []
+    subKeys: []
+    subKeyValues: []
   configRemotes:
     keys:
-    - origin
+    - orogin
     values:
-    - name: origin
-      url: https://github.com/soheilbr82/Mind-Controlled-Virtual-Car-Simple.git
+    - name: orogin
+      url: git@github.com:soheilbr82/Mind-Controlled-Virtual-Car.git

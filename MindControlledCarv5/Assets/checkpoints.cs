@@ -20,7 +20,7 @@ public class checkpoints : MonoBehaviour {
 
             player.transform.position = checkPoint.transform.position;
             player.transform.rotation = checkPoint.transform.rotation;
-            distance.dis = disRecord.record;
+            distance.dis = disRecord.record; // for resetting the distance counter
             count = 0;
         }
         else

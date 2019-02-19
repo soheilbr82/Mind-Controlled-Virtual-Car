@@ -12,24 +12,204 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-02-17T20:49:46.333-05:00
-  initializedAtString: 2019-02-17T20:47:52.787-05:00
+  lastUpdatedAtString: 2019-02-19T15:21:16.123-05:00
+  initializedAtString: 2019-02-19T15:13:51.498-05:00
   entries:
-  - path: MindControlledCarv5\Assets\car.unity
-    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Assets\car.unity
-    projectPath: Assets\car.unity
+  - path: MindControlledCarv5\.vs\MindControlledCarv5\v14\.suo
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\.vs\MindControlledCarv5\v14\.suo
+    projectPath: .vs\MindControlledCarv5\v14\.suo
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MindControlledCarv5\Assets\checkpoints.cs
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Assets\checkpoints.cs
+    projectPath: Assets\checkpoints.cs
     originalPath: 
     status: 3
     staged: 0
-  - path: MindControlledCarv5\Assets\Hard.unity
-    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Assets\Hard.unity
-    projectPath: Assets\Hard.unity
+  - path: MindControlledCarv5\Library\assetDatabase3
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
     originalPath: 
     status: 3
     staged: 0
-  - path: MindControlledCarv5\Assets\Medium.unity
-    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Assets\Medium.unity
-    projectPath: Assets\Medium.unity
+  - path: MindControlledCarv5\Library\CurrentLayout.dwlt
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
     originalPath: 
     status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\CurrentMaximizeLayout.dwlt
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\EditorInstance.json
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MindControlledCarv5\Library\gfu\cache\branches.yaml
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\gfu\cache\gituser.yaml
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\InspectorExpandedItems.asset
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\metadata\18\18b4dbf8a0b54ea4adf46fb7f4d71dd0
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\metadata\18\18b4dbf8a0b54ea4adf46fb7f4d71dd0
+    projectPath: Library\metadata\18\18b4dbf8a0b54ea4adf46fb7f4d71dd0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\metadata\24\2403d1f95ea54028853403e595bc9274
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\metadata\24\2403d1f95ea54028853403e595bc9274
+    projectPath: Library\metadata\24\2403d1f95ea54028853403e595bc9274
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\metadata\51\51288a4fc4384861a5b1f9dd49b3da26
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\metadata\51\51288a4fc4384861a5b1f9dd49b3da26
+    projectPath: Library\metadata\51\51288a4fc4384861a5b1f9dd49b3da26
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
+    projectPath: Library\metadata\52\52a206b72a8f4f749c28d8b18b42dd19
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\metadata\bb\bb6b4101ad2c42ec99f064a70c354e3c
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\metadata\bb\bb6b4101ad2c42ec99f064a70c354e3c
+    projectPath: Library\metadata\bb\bb6b4101ad2c42ec99f064a70c354e3c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\metadata\e7\e7eb3326db7b6e941926b50412e8884d
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\metadata\e7\e7eb3326db7b6e941926b50412e8884d
+    projectPath: Library\metadata\e7\e7eb3326db7b6e941926b50412e8884d
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll.mdb
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MindControlledCarv5\Temp\__Backupscenes\0.backup
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MindControlledCarv5\Temp\UnityLockfile
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MindControlledCarv5\Temp\UnityTempFile-368d4d5e4b2706d4dbc39fb150760724
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Temp\UnityTempFile-368d4d5e4b2706d4dbc39fb150760724
+    projectPath: Temp\UnityTempFile-368d4d5e4b2706d4dbc39fb150760724
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MindControlledCarv5\Temp\UnityTempFile-3a9c4e84f29f83a458e28af6e26efa69
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Temp\UnityTempFile-3a9c4e84f29f83a458e28af6e26efa69
+    projectPath: Temp\UnityTempFile-3a9c4e84f29f83a458e28af6e26efa69
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MindControlledCarv5\Temp\UnityTempFile-8abff43fbf640244cb0ed8ab8543bce0
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Temp\UnityTempFile-8abff43fbf640244cb0ed8ab8543bce0
+    projectPath: Temp\UnityTempFile-8abff43fbf640244cb0ed8ab8543bce0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MindControlledCarv5\Temp\UnityTempFile-b11a75f79659c814fb57cd39fcc7b13f
+    fullPath: D:\Projects\VirtualCarSimulink\Scripts\MindControlledCarv5\MindControlledCarv5\Temp\UnityTempFile-b11a75f79659c814fb57cd39fcc7b13f
+    projectPath: Temp\UnityTempFile-b11a75f79659c814fb57cd39fcc7b13f
+    originalPath: 
+    status: 1
     staged: 0
